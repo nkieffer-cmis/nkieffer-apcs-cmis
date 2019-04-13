@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment1.params=card
+comment1.target=void\ addCard(Card)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=hidden
+comment4.target=java.lang.String\ toString(boolean)
+comment5.params=
+comment5.target=Card\ getVisibleCard()
+numComments=6

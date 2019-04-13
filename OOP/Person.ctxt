@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Person()
+comment1.params=name\ age
+comment1.target=Person(java.lang.String,\ int)
+comment2.params=dx\ dy\ dz
+comment2.target=void\ move(int,\ int,\ int)
+comment3.params=
+comment3.target=java.util.List\ getLocation()
+comment4.params=newX\ newY\ newZ
+comment4.target=void\ setLocation(int,\ int,\ int)
+comment5.params=newAge
+comment5.target=void\ setAge(int)
+comment6.params=newLocation
+comment6.target=void\ setLocation(Place)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

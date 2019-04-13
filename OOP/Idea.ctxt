@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Idea()
+comment1.params=name\ age
+comment1.target=Idea(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getPopularity()
+comment3.params=newPopularity
+comment3.target=void\ setPopularity(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

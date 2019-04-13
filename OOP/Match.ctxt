@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Match()
+comment1.params=wrestler1\ wrestler2
+comment1.target=Match(Wrestler,\ Wrestler)
+comment2.params=
+comment2.target=Wrestler\ fightRound()
+numComments=3
