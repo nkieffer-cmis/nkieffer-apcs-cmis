@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getX()
+comment1.params=
+comment1.target=int\ getY()
+comment2.params=x\ y
+comment2.target=void\ move(int,\ int)
+comment3.params=level
+comment3.target=void\ charge(int)
+comment4.params=level
+comment4.target=void\ drain(int)
+comment5.params=
+comment5.target=int\ getLevel()
+numComments=6

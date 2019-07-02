@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=void\ charge(int)
+comment1.params=level
+comment1.target=void\ drain(int)
+comment2.params=
+comment2.target=int\ getLevel()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Portal
+comment0.text=\n\ Write\ a\ description\ of\ class\ Portal\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=destination
+comment1.target=void\ setDestination(Portal)
+comment2.params=
+comment2.target=Portal\ getDestination()
+comment3.params=
+comment3.target=int\ getContactDuration()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
